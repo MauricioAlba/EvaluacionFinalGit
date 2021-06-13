@@ -1,4 +1,8 @@
 Dojo Dodge
-version 0 
+version 1 
 Lista de caracteristicas:
+<<<<<<< HEAD
 -caracteristicas1
+=======
+-caracteristicas 2
+>>>>>>> feature2
